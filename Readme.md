@@ -11,7 +11,7 @@ Application de matching mentor-mentoré - Projet intégrateur IFRI.
 
 ## 🚀 Lien du projet
 
-[https://rpil-2526-athindehou-frejus.up.railway.app](https://rpil-2526-athindehou-frejus.up.railway.app)
+https://rpil2526athindehoufrejus-production.up.railway.app/
 
 ## 📁 Structure
 
